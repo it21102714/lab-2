@@ -1,0 +1,10 @@
+create type emp_t as object(
+  empno integer(6) not null,
+  firstname varchar(12) not null,
+  lastname varchar(15) not null,
+  workdept char(3) null,
+  sex char(1) null,
+  birthdate integer null,
+  salary integer(8,2) null
+)kjgwd
+
