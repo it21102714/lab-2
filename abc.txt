@@ -8,3 +8,4 @@ create type emp_t as object(
   salary integer(8,2) null
 )
 
+aaaaahgfj
